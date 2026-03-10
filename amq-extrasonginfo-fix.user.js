@@ -5,6 +5,8 @@
 // @description  Makes the extra song info popover appear above the icon instead of below.
 // @author       Floth
 // @match        https://animemusicquiz.com/*
+// @updateURL    https://github.com/Monofly/AMQ-Scene/raw/refs/heads/main/amq-extrasonginfo-fix.user.js
+// @downloadURL  https://github.com/Monofly/AMQ-Scene/raw/refs/heads/main/amq-extrasonginfo-fix.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
